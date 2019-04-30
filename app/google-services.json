@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417544791520",
+    "firebase_url": "https://retroift-8f069.firebaseio.com",
+    "project_id": "retroift-8f069",
+    "storage_bucket": "retroift-8f069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417544791520:android:f1c24456ddd35a40",
+        "android_client_info": {
+          "package_name": "com.example.ertugrul.retroift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417544791520-e75k3domnutomje9rcmre6ndlbqaicob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ertugrul.retroift",
+            "certificate_hash": "d8f10dcbfa2dd026c2fa56a26b417a284e6793bb"
+          }
+        },
+        {
+          "client_id": "417544791520-b7nlj59v40sh3mtrt7vrso4rjfo2s1n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZzjkQnboc-UaQfo7yJgPtIhj26nhaBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417544791520-b7nlj59v40sh3mtrt7vrso4rjfo2s1n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
